@@ -4,4 +4,4 @@ Config files for my GitHub profile.
 
 先从TCGA下载了几张甲状腺瘤的病理图片
 
-manifest在data文件夹里
+manifest在manifest文件夹里
